@@ -1,7 +1,28 @@
 body
 {
-    text-align: center;
-    background-color: aqua;
-    font-size: 100px;
-    color:darkred;
+   margin:0px;
+    padding-top:  300px;
+}
+.container
+{
+    background-color: chartreuse;
+    color:crimson;
+    top:0;
+    bottom: 0;
+    left:0;
+    right: 0;
+    height: 800px;
+    width:auto;
+    
+}
+.inner
+{
+    background-color: blueviolet;
+    color:darkblue;
+}
+#pic1
+{
+    width:175px;
+    border-radius: 50px;
+    border: solid;
 }
